@@ -1,0 +1,7 @@
+resolver: lts-9.20
+packages:
+- .
+extra-deps:
+- git: https://github.com/mpilgrem/ansi-terminal
+  commit: 2133a6b416e51d14df2b77153b67ac2c99b9e618
+#  commit: 191f9de63085d5a5101d54a1fd23a23240f6fda9
